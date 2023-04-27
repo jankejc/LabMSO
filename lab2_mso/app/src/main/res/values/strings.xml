@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">lab2_mso</string>
+    <string name="draw_on_screen_activity">Aktywność do rysowania!</string>
+</resources>
